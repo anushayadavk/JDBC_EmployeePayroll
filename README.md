@@ -1,1 +1,1 @@
-Ability to retrieve all employees who have joined in a particular data range from the payroll service database
+Ability to find sum, average, min, max and number of male and female employees
